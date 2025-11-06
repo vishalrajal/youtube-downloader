@@ -23,12 +23,15 @@ Developed by **Vishal Raja**
 **Example Usecases**
 
 **Main Menu**
+
 ![image alt](https://github.com/vishalrajal/youtube-downloader/blob/f576b67d12ab0c36d1448a370b0f781545ee144a/main%20menu.JPG)
 
 **Option 1**
+
 ![image alt](https://github.com/vishalrajal/youtube-downloader/blob/f576b67d12ab0c36d1448a370b0f781545ee144a/video%20download.JPG)
 
 **Progress**
+
 ![image alt](https://github.com/vishalrajal/youtube-downloader/blob/f576b67d12ab0c36d1448a370b0f781545ee144a/progress.JPG)
 
 ## 🧰 Requirements
