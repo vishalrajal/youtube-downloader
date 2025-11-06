@@ -20,6 +20,16 @@ Developed by **Vishal Raja**
 ✅ Saves with proper YouTube video titles
 
 ---
+**Example Usecases**
+
+**Main Menu**
+![image alt]()
+
+**Option 1**
+![image alt]()
+
+**Progress**
+![image alt]()
 
 ## 🧰 Requirements
 
